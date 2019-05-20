@@ -1,8 +1,11 @@
 # csv_task
 Task to solve the following problem 
-Download outcome csv here: http://www.sharecsv.com/s/e593dd089bc5aaf6583b5187f96cb48e/outcome_interview.csv
-Download event csv here: http://www.sharecsv.com/s/f9b678bf4a60bafe3f0a4132313e194d/event_interview.csv
-Download fighter csv here: http://www.sharecsv.com/s/4f1b611a0d9f96d7700adba8b387df21/fighter_interview.csv
+Download outcome csv here: 
+http://www.sharecsv.com/s/e593dd089bc5aaf6583b5187f96cb48e/outcome_interview.csv
+Download event csv here: 
+http://www.sharecsv.com/s/f9b678bf4a60bafe3f0a4132313e194d/event_interview.csv
+Download fighter csv here: 
+http://www.sharecsv.com/s/4f1b611a0d9f96d7700adba8b387df21/fighter_interview.csv
 
 The outcome csv contains the matchup data for various mixed martial arts fights - including the two fighters involved, the winner, and the event where it took place - all encoded in IDs.
 The event csv contains event data for various mixed martial arts events - most importantly the event name. The id corresponds to the event_id in the outcome csv.
